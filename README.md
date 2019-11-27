@@ -1,1 +1,1 @@
-# BPMN-Sol
+#Test translating BPMN to Solidity
